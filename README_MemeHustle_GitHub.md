@@ -121,18 +121,8 @@ VITE_API_BASE=http://localhost:5000
 
 ---
 
-## 📷 Screenshots
-
-> Coming soon – Meme Gallery, Vote Buttons, Leaderboard UI
-
----
-
 ## 👨‍💻 Author
 
-Developed by [Your Name Here] – 💻 Open to contributions!
+Developed by VISHNU V – 💻 Open to contributions!
 
 ---
-
-## 📄 License
-
-MIT
